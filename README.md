@@ -3,15 +3,14 @@
 | OJ | Username | Solve Count |
 | -- | -------- | ----------- |
 | Codeforces | [Hasanul-Bari](https://codeforces.com/profile/Hasanul-Bari) | 912 |
-| CodeChef | [Hasanul](https://codeforces.com/profile/Hasanul-Bari) | 314 |
-| AtCoder | [Hasanul](https://codeforces.com/profile/Hasanul-Bari) | 221 |
-| SPOJ | [Hasanul](https://codeforces.com/profile/Hasanul-Bari) | 172 | 
-| LightOJ | [Hasanul](https://codeforces.com/profile/Hasanul-Bari) | 174 | 
-| Toph | [Hasanul](https://codeforces.com/profile/Hasanul-Bari) | 279 |
-| Vjudge | [Hasanul](https://codeforces.com/profile/Hasanul-Bari) | 687 |
-| UVA | [Hasanul](https://codeforces.com/profile/Hasanul-Bari) | 19 |
-| HackerEarth | [Hasanul](https://codeforces.com/profile/Hasanul-Bari) | 10 |
-| HackerRank | [Hasanul](https://codeforces.com/profile/Hasanul-Bari) | 10 |
+| CodeChef | [hasanhp7](https://www.codechef.com/users/hasanhp7) | 42 |
+| AtCoder | [Hasanul_Bari](https://atcoder.jp/users/Hasanul_Bari) | 74 |
+| SPOJ | [hasanhp7](https://www.spoj.com/users/hasanhp7/) | 15 | 
+| LightOJ | [hasanul-bari](https://lightoj.com/user/hasanul-bari) | 31 | 
+| LeetCode | [Hasanul Bari](https://leetcode.com/Hasanul-Bari/) | 300 |
+| UVA | [hasanhp7](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_authorstats&userid=939495) | 186 |
+| HackerEarth | [Hasanul Bari](https://www.hackerearth.com/@hasanhp7) | 19 |
+| HackerRank | [Hasanul Bari](https://www.hackerrank.com/Hasanul_Bari) | 195 |
 | Total | | 4364 |
 
-Last Updated: 31 Oct, 2021
+Last Updated: 25 Aug, 2022
