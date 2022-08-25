@@ -2,7 +2,7 @@
 
 | OJ | Username | Solve Count |
 | -- | -------- | ----------- |
-| Codeforces | [Hasanul](https://codeforces.com/profile/Hasanul-Bari) | 2433 |
+| Codeforces | [Hasanul-Bari](https://codeforces.com/profile/Hasanul-Bari) | 912 |
 | CodeChef | [Hasanul](https://codeforces.com/profile/Hasanul-Bari) | 314 |
 | AtCoder | [Hasanul](https://codeforces.com/profile/Hasanul-Bari) | 221 |
 | SPOJ | [Hasanul](https://codeforces.com/profile/Hasanul-Bari) | 172 | 
