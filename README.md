@@ -13,4 +13,8 @@
 | HackerRank | [Hasanul Bari](https://www.hackerrank.com/Hasanul_Bari) | 195 |
 | Total | | 1777 |
 
+- Codeforces highest contest rating : 1430
+- LeetCode highest contest rating : 1632
+- CodeChef highest contest rating : 1755
+
 Last Updated: 04 Oct, 2022
