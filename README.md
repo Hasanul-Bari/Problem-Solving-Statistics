@@ -17,4 +17,4 @@
 - LeetCode highest contest rating : 1632
 - CodeChef highest contest rating : 1755
 
-Last Updated: 04 Oct, 2022
+Last Updated: 13 Oct, 2022
