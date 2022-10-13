@@ -11,6 +11,6 @@
 | UVA | [hasanhp7](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_authorstats&userid=939495) | 186 |
 | HackerEarth | [Hasanul Bari](https://www.hackerearth.com/@hasanhp7) | 19 |
 | HackerRank | [Hasanul Bari](https://www.hackerrank.com/Hasanul_Bari) | 195 |
-| Total | | 1774 |
+| Total | | 1777 |
 
 Last Updated: 04 Oct, 2022
